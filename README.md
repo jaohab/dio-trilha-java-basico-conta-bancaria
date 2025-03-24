@@ -1,4 +1,4 @@
-# dio-trilha-java-basico
+# dio-trilha-java-basico-conta-bancaria
 
 ## Simulando Uma Conta Bancária Através Do Terminal/Console
 
